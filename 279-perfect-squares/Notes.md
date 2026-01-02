@@ -1,1 +1,1 @@
-<h2>perfect-squares Notes</h2><hr>[ Time taken: 5 hrs 4 m 42 s ]
+<h2>perfect-squares Notes</h2><hr>[ Time taken: 5 hrs 47 m 17 s ]
